@@ -1,0 +1,3 @@
+﻿文件下载网址  =>  文件保存路径
+http://www.roseonly.com.cn/assets/images/zk02.png  =>  F:\学习软件\马老师赠送\扒网页的小工具\look\单页扒站小工具\www.roseonly.com.cn\images\zk02.png
+http://www.roseonly.com.cn/assets/roseonly/images/roseonly-message.png  =>  F:\学习软件\马老师赠送\扒网页的小工具\look\单页扒站小工具\www.roseonly.com.cn\images\roseonly-message.png
